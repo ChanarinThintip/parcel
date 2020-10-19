@@ -1,12 +1,12 @@
 version: 2.1
 
-orbs:
+jobs:Chanarinฝฝ
  android: circleci/android@0.2.1
 
-jobs:Chana
+jobsChanarin
   build:
     executor: android/android
-   Chana
+hanarinanaChanarin
     steps:
       - checkout
       - run:
